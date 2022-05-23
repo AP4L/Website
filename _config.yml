@@ -9,8 +9,8 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Team names, titles and social links
 people:
-- name: Nishanth Sastry
-  pic: nishanth-sastry.webp
+- name: Prof. Nishanth Sastry
+  pic: 4
   position: Principle Investigator
   social:
     - title: twitter
@@ -20,9 +20,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Steve Schneider
-  pic: 2
-  position: Lead Marketer
+- name: Prof. Steve Schneider
+  pic: 5
+  position: Co-Investigator
   social:
     - title: twitter
       url: #
@@ -31,9 +31,9 @@ people:
     - title: linkedin
       url: #
 
-- name: Suparna De
-  pic: 3
-  position: Lead Developer
+- name: Dr. Suparna De
+  pic: 6
+  position: Co-Investigator
   social:
     - title: twitter
       url: #
