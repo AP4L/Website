@@ -32,7 +32,18 @@ people:
       url: #
 
 - name: Dr. Suparna De
-  pic: 6
+  pic: 8
+  position: Co-Investigator
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+      
+ - name: Dr. Irina Cojuharenco
+  pic: 9
   position: Co-Investigator
   social:
     - title: twitter
