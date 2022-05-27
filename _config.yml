@@ -10,18 +10,7 @@ description: "Write an awesome description for your new site here. You can edit 
 # Team names, titles and social links
 people:
 - name: Prof. Nishanth Sastry
-  pic: 4
-  position: Principle Investigator
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: page
-      url: https://www.surrey.ac.uk/people/nishanth-sastry
-      
-- name: Prof. Nishanth Sastry
-  pic: 4
+  pic: 8
   position: Principle Investigator
   social:
     - title: twitter
@@ -32,7 +21,7 @@ people:
       url: https://www.surrey.ac.uk/people/nishanth-sastry
 
 - name: Prof. Steve Schneider
-  pic: 5
+  pic: 
   position: Co-Investigator
   social:
     - title: twitter
@@ -43,7 +32,7 @@ people:
       url: #
 
 - name: Dr. Suparna De
-  pic: 8
+  pic: 9
   position: Co-Investigator
   social:
     - title: twitter
