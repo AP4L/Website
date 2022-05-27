@@ -17,7 +17,18 @@ people:
       url: #
     - title: facebook
       url: #
-    - title: website
+    - title: page
+      url: https://www.surrey.ac.uk/people/nishanth-sastry
+      
+- name: Prof. Nishanth Sastry
+  pic: 4
+  position: Principle Investigator
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: page
       url: https://www.surrey.ac.uk/people/nishanth-sastry
 
 - name: Prof. Steve Schneider
