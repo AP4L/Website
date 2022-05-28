@@ -12,17 +12,17 @@ people:
 - name: Prof. Nishanth Sastry
   pic: nishanth-sastry.webp
   position: Principle Investigator
-  website: #
+  website: https://www.surrey.ac.uk/people/nishanth-sastry
   social:
     - title: twitter
       url: #
     - title: facebook
       url: #
     - title: page
-      url: https://www.surrey.ac.uk/people/nishanth-sastry
+      url: #
 
 - name: Prof. Steve Schneider
-  pic: placeholder
+  pic: placeholder.png
   position: Co-Investigator
   website: #
   social:
@@ -34,7 +34,7 @@ people:
       url: #
       
 - name: Dr. Irina Cojuharenco
-  pic: 9
+  pic: placeholder.png
   position: Co-Investigator
   website: #
   social:
@@ -46,7 +46,7 @@ people:
       url: #
 
 - name: Dr. Suparna De
-  pic: 9
+  pic: Suparna De-1262.webp
   position: Co-Investigator
   website: #
   social:
