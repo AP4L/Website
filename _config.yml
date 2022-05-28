@@ -15,47 +15,37 @@ people:
   website: https://www.surrey.ac.uk/people/nishanth-sastry
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: page
-      url: #
+      url: https://twitter.com/nishanthsastry
+    - title: linkedin
+      url: https://www.linkedin.com/in/nishanthsastry/
 
 - name: Prof. Steve Schneider
   pic: placeholder.png
   position: Co-Investigator
-  website: #
+  website: https://www.surrey.ac.uk/people/steve-schneider
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
+      url: https://twitter.com/SSchneider2025
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/prof-steve-schneider/
       
 - name: Dr. Irina Cojuharenco
   pic: placeholder.png
   position: Co-Investigator
-  website: #
+  website: https://www.surrey.ac.uk/people/irina-cojuharenco
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/irina-cojuharenco-19241a89/
 
 - name: Dr. Suparna De
   pic: Suparna De-1262.webp
   position: Co-Investigator
-  website: #
+  website: https://www.surrey.ac.uk/people/suparna-de
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://twitter.com/supdey
+    - title: linkedin
+      url: https://www.linkedin.com/in/suparna-de-unis/
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
