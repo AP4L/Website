@@ -18,9 +18,19 @@ people:
       url: https://twitter.com/nishanthsastry
     - title: linkedin
       url: https://www.linkedin.com/in/nishanthsastry/
-
+      
+- name: Prof. Wendy Moncur
+  pic: Wendy.jpg
+  position: Co-Investigator
+  website: https://www.strath.ac.uk/staff/moncurwendyprofessor/
+  social:
+    - title: twitter
+      url: https://twitter.com/wendymoncur
+    - title: linkedin
+      url: https://www.linkedin.com/in/wendy-moncur-92b2844/
+      
 - name: Prof. Steve Schneider
-  pic: placeholder.png
+  pic: Steve Schneider.webp
   position: Co-Investigator
   website: https://www.surrey.ac.uk/people/steve-schneider
   social:
@@ -30,7 +40,7 @@ people:
       url: https://www.linkedin.com/in/prof-steve-schneider/
       
 - name: Dr. Irina Cojuharenco
-  pic: placeholder.png
+  pic: 8.jpg
   position: Co-Investigator
   website: https://www.surrey.ac.uk/people/irina-cojuharenco
   social:
@@ -47,7 +57,7 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/suparna-de-unis/
 
- 
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
