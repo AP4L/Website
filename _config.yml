@@ -39,6 +39,16 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/prof-steve-schneider/
       
+  - name: Dr. Gareth Tyson
+  pic: GarethPicture.jpeg
+  position: Co-Investigator
+  website: http://www.eecs.qmul.ac.uk/~tysong/
+  social:
+    - title: twitter
+      url: https://twitter.com/Gareth_Tyson
+    - title: linkedin
+      url: https://www.linkedin.com/in/gareth-tyson-9472388/
+      
 - name: Dr. Irina Cojuharenco
   pic: 8.jpg
   position: Co-Investigator
