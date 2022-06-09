@@ -11,7 +11,7 @@ description: "Write an awesome description for your new site here. You can edit 
 people:
 - name: Prof. Nishanth Sastry
   pic: nishanth-sastry.webp
-  position: Principle Investigator
+  position: Principle Investigator, Uni of Surrey
   website: https://www.surrey.ac.uk/people/nishanth-sastry
   social:
     - title: twitter
@@ -21,7 +21,7 @@ people:
       
 - name: Prof. Wendy Moncur
   pic: Wendy.jpg
-  position: Co-Investigator
+  position: Co-Investigator, Uni of Srathclyde
   website: https://www.strath.ac.uk/staff/moncurwendyprofessor/
   social:
     - title: twitter
@@ -31,7 +31,7 @@ people:
       
 - name: Prof. Steve Schneider
   pic: Steve Schneider.webp
-  position: Co-Investigator
+  position: Co-Investigator, Uni of Surrey
   website: https://www.surrey.ac.uk/people/steve-schneider
   social:
     - title: twitter
@@ -41,7 +41,7 @@ people:
       
   - name: Dr. Gareth Tyson
   pic: GarethPicture.jpeg
-  position: Co-Investigator
+  position: Co-Investigator, QMUL
   website: http://www.eecs.qmul.ac.uk/~tysong/
   social:
     - title: twitter
@@ -51,7 +51,7 @@ people:
       
 - name: Dr. Irina Cojuharenco
   pic: 8.jpg
-  position: Co-Investigator
+  position: Co-Investigator, Uni of Surrey
   website: https://www.surrey.ac.uk/people/irina-cojuharenco
   social:
     - title: linkedin
@@ -59,7 +59,7 @@ people:
 
 - name: Dr. Suparna De
   pic: Suparna De-1262.webp
-  position: Co-Investigator
+  position: Co-Investigator, Uni of Surrey
   website: https://www.surrey.ac.uk/people/suparna-de
   social:
     - title: twitter
@@ -67,7 +67,16 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/suparna-de-unis/
 
-
+- name: Prof. Helen Treharne
+  pic: Helen Treharne.webp
+  position: Co-Investigator, Uni of Surrey
+  website: https://www.surrey.ac.uk/people/helen-treharne
+  social:
+    - title: twitter
+      url: https://twitter.com/helen_treharne
+    - title: linkedin
+      url: https://www.linkedin.com/in/helen-treharne/
+      
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
