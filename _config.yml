@@ -76,6 +76,24 @@ people:
       url: https://twitter.com/helen_treharne
     - title: linkedin
       url: https://www.linkedin.com/in/helen-treharne/
+  
+  - name: Dr. Catalin Dragan
+  pic: Catalin Dragan.jpg
+  position: Co-Investigator, Uni of Surrey
+  website: https://www.surrey.ac.uk/people/constantin-catalin-dragan
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/constantin-catalin-dragan-ph-d-5611464a/
+      
+  - name: Dr. Karen Renaud
+  pic: Karen.png
+  position: Co-Investigator, Uni of Strathclyde
+  website: https://www.strath.ac.uk/staff/renaudkarendr/
+  social:
+    - title: twitter
+      url: https://twitter.com/drkarenrenaud
+    - title: linkedin
+      url: https://www.linkedin.com/in/karenrenaud/
       
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
