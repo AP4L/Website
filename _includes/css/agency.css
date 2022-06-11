@@ -27,6 +27,15 @@ p.large {
     font-size: 16px;
 }
 
+.masonry-column {
+  padding: 0 1px;
+}
+
+.masonry-grid > div .thumbnail {
+  margin: 5px 1px;
+}
+
+
 a,
 a:hover,
 a:focus,
