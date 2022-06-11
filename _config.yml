@@ -39,7 +39,7 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/prof-steve-schneider/
       
-  - name: Dr. Gareth Tyson
+- name: Dr. Gareth Tyson
   pic: GarethPicture.jpeg
   position: Co-Investigator, QMUL
   website: http://www.eecs.qmul.ac.uk/~tysong/
@@ -77,7 +77,7 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/helen-treharne/
   
-  - name: Dr. Catalin Dragan
+- name: Dr. Catalin Dragan
   pic: Catalin Dragan.jpg
   position: Co-Investigator, Uni of Surrey
   website: https://www.surrey.ac.uk/people/constantin-catalin-dragan
@@ -85,7 +85,7 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/constantin-catalin-dragan-ph-d-5611464a/
       
-  - name: Dr. Karen Renaud
+- name: Dr. Karen Renaud
   pic: Karen.png
   position: Co-Investigator, Uni of Strathclyde
   website: https://www.strath.ac.uk/staff/renaudkarendr/
