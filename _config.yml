@@ -114,7 +114,7 @@ people:
       url: https://www.linkedin.com/in/dr-diane-morrow-93570583/
       
 - name: Prof. Nick Hulbert-Williams
-  pic: Diane Morrow.webp
+  pic: Nick H-W.webp
   position: Co-Investigator, Edge Hill University
   website: https://research.edgehill.ac.uk/en/persons/nicholas-hulbert-williams
   social:
@@ -122,7 +122,96 @@ people:
       url: https://twitter.com/profnickhw
     - title: linkedin
       url: https://www.linkedin.com/in/nick-hulbert-williams
+
+- name: Lori Wright
+  pic: Nick H-W.webp
+  position: Research Assistant, Edge Hill University
+  website: https://research.edgehill.ac.uk/en/persons/lorraine-wright
+  social:
+    - title: twitter
+      url: https://twitter.com/loriwright78
+    - title: linkedin
+      url: https://www.linkedin.com/in/lorraine-wright-3769971a9/
+
+- name: Dr. Irina Cojuharenco
+  pic: 8.jpg
+  position: Co-Investigator, Uni of Surrey
+  website: https://www.surrey.ac.uk/people/irina-cojuharenco
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/irina-cojuharenco-19241a89/
  
+ - name: Dr. Adrian Banks   
+  pic: Nick H-W.webp
+  position: Co-Investigator, Uni of Surrey
+  website: https://www.surrey.ac.uk/people/adrian-banks
+  social:
+    - title: twitter
+      url: https://twitter.com/SurreyCogSci
+
+- name: Dr. Michael McGuire
+  pic: michael-mcguire.webp
+  position: Co-Investigator, Uni of Surrey
+  website: https://www.surrey.ac.uk/people/michael-mcguire
+
+- name: Dr. Richard Jones
+  pic: Richard Jones.jpg
+  position: Co-Investigator, Uni of Edinburgh
+  website: https://www.law.ed.ac.uk/people/dr-richard-jones
+  social:
+    - title: twitter
+      url: https://twitter.com/DrRichardJ
+    - title: linkedin
+      url: https://www.linkedin.com/in/drrichardjones/
+
+- name: Dr. Francesca Menichelli
+  pic: menichelli f 020518_0213 A5.jpg
+  position: Co-Investigator, Uni of Surrey
+  website: https://www.surrey.ac.uk/people/francesca-menichelli
+  social:
+    - title: twitter
+      url: https://twitter.com/Fra__Me
+
+- name: Dr. Alice Hutchings
+  pic: Alice H.jpeg
+  position: Co-Investigator, Uni of Cambridge
+  website: https://www.cl.cam.ac.uk/~ah793/
+  social:
+    - title: twitter
+      url: https://twitter.com/message4bob
+    - title: linkedin
+      url: https://www.linkedin.com/in/ahutchings/
+
+- name: Dr. Gareth Tyson
+  pic: GarethPicture.jpeg
+  position: Co-Investigator, QMUL
+  website: http://www.eecs.qmul.ac.uk/~tysong/
+  social:
+    - title: twitter
+      url: https://twitter.com/Gareth_Tyson
+    - title: linkedin
+      url: https://www.linkedin.com/in/gareth-tyson-9472388/
+
+- name: Dr. Arkaitz Zubiaga
+  pic: arkaitz.png
+  position: Co-Investigator, QMUL
+  website: http://eecs.qmul.ac.uk/profiles/zubiagaarkaitz.html
+  social:
+    - title: twitter
+      url: https://twitter.com/arkaitz
+    - title: linkedin
+      url: https://www.linkedin.com/in/arkaitz/
+
+- name: Dr. Ignacio de Castro
+  pic: ignacio.png
+  position: Co-Investigator, QMUL
+  website: http://www.eecs.qmul.ac.uk/profiles/castroignacio.html
+  social:
+    - title: twitter
+      url: https://twitter.com/Ignactro
+    - title: linkedin
+      url: https://www.linkedin.com/in/ignacio-de-castro-arribas-44a48117/
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
