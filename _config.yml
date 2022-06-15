@@ -95,6 +95,34 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/karenrenaud/
       
+- name: Prof. Jeff Yan
+  pic: Jeff.jpg
+  position: Co-Investigator, Uni of Strathclyde
+  website: https://pureportal.strath.ac.uk/en/persons/jeff-yan
+  social:
+    - title: 
+      url: https://prof-jeffyan.github.io/
+
+- name: Dr. Diane Morrow
+  pic: Diane Morrow.webp
+  position: Co-Investigator, Uni of Strathclyde
+  website: https://pureportal.strath.ac.uk/en/persons/diane-morrow
+  social:
+    - title: twitter
+      url: https://twitter.com/Deepost30
+    - title: linkedin
+      url: https://www.linkedin.com/in/dr-diane-morrow-93570583/
+      
+- name: Prof. Nick Hulbert-Williams
+  pic: Diane Morrow.webp
+  position: Co-Investigator, Edge Hill University
+  website: https://research.edgehill.ac.uk/en/persons/nicholas-hulbert-williams
+  social:
+    - title: twitter
+      url: https://twitter.com/profnickhw
+    - title: linkedin
+      url: https://www.linkedin.com/in/nick-hulbert-williams
+ 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
