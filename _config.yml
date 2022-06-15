@@ -114,7 +114,7 @@ people:
       url: https://www.linkedin.com/in/dr-diane-morrow-93570583/
 
 - name: Prof. Nick Hulbert-Williams
-  pic: Nick H-W.webp
+  pic: Nick.png
   position: Co-Investigator, Edge Hill University
   website: https://research.edgehill.ac.uk/en/persons/nicholas-hulbert-williams
   social:
@@ -124,7 +124,7 @@ people:
       url: https://www.linkedin.com/in/nick-hulbert-williams
 
 - name: Lori Wright
-  pic: Nick H-W.webp
+  pic: Lori.jpg
   position: Research Assistant, Edge Hill University
   website: https://research.edgehill.ac.uk/en/persons/lorraine-wright
   social:
@@ -134,7 +134,7 @@ people:
       url: https://www.linkedin.com/in/lorraine-wright-3769971a9/
  
 - name: Dr. Adrian Banks   
-  pic: Nick H-W.webp
+  pic: adrian-banks.webp
   position: Co-Investigator, Uni of Surrey
   website: https://www.surrey.ac.uk/people/adrian-banks
   social:
@@ -155,7 +155,7 @@ people:
       url: https://twitter.com/DrRichardJ
     - title: linkedin
       url: https://www.linkedin.com/in/drrichardjones/
-
+      
 - name: Dr. Francesca Menichelli
   pic: menichelli f 020518_0213 A5.jpg
   position: Co-Investigator, Uni of Surrey
@@ -173,16 +173,6 @@ people:
       url: https://twitter.com/message4bob
     - title: linkedin
       url: https://www.linkedin.com/in/ahutchings/
-
-- name: Dr. Gareth Tyson
-  pic: GarethPicture.jpeg
-  position: Co-Investigator, QMUL
-  website: http://www.eecs.qmul.ac.uk/~tysong/
-  social:
-    - title: twitter
-      url: https://twitter.com/Gareth_Tyson
-    - title: linkedin
-      url: https://www.linkedin.com/in/gareth-tyson-9472388/
 
 - name: Dr. Arkaitz Zubiaga
   pic: arkaitz.png
