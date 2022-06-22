@@ -11,7 +11,7 @@ description: "Write an awesome description for your new site here. You can edit 
 people:
 - name: Prof. Nishanth Sastry
   pic: nishanth-sastry.webp
-  position: Principle Investigator, Uni of Surrey
+  position: Principal Investigator, Uni of Surrey
   website: https://www.surrey.ac.uk/people/nishanth-sastry
   social:
     - title: twitter
@@ -21,7 +21,7 @@ people:
 
 - name: Prof. Wendy Moncur
   pic: Wendy.jpg
-  position: Co-Investigator, Uni of Srathclyde
+  position: Co-Investigator, Uni of Strathclyde
   website: https://www.strath.ac.uk/staff/moncurwendyprofessor/
   social:
     - title: twitter
@@ -105,7 +105,7 @@ people:
 
 - name: Dr. Diane Morrow
   pic: Diane Morrow.webp
-  position: Co-Investigator, Uni of Strathclyde
+  position: Research Fellow, Uni of Strathclyde
   website: https://pureportal.strath.ac.uk/en/persons/diane-morrow
   social:
     - title: twitter
