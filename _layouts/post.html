@@ -5,9 +5,24 @@ layout: default
 
 
 <div class="header" id="myHeader">
-  <h2>My Header</h2>
+  <h2><a href="{{site.url}}">{{site.title}}</a></h2>
 </div>
+<div class="date">
+  <ul class="list-inline item-details">
+    <li>Author:
+      <strong>{{ page.author }}</strong>
 
+    </li>
+    <li>Category:
+      <strong>{{ page.category }}
+      </strong>
+    </li>
+  <li>Date:
+    <strong>{{ page.date | date: "%B %e, %Y" }}
+    </strong>
+  </li>
+  </ul>
+</div>
 
 <section id="about">
   <div class="container">
@@ -21,9 +36,7 @@ layout: default
     {{ content }}
   </div>
 
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
-  </div>
+
 
 </article>
       </div>
