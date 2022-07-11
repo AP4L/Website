@@ -15,19 +15,16 @@
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-                            <p>{{ post.description }}<a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a></p>
-                              {{ post.excerpt }}
+                            <p>{{ post.excerpt }}<a href="{{ site.baseurl }}{{ post.url }}" class="read-more"> Read More</a></p>
+
       
                             <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong>{{ post.client }}
-                                    </strong>
-                                </li>
+
                                 <li>Date:
                                     <strong>{{ post.project-date }}
                                     </strong>
                                 </li>
-                                <li>Service:
+                                <li>Category:
                                     <strong>{{ post.category }}
                                     </strong>
                                 </li>
