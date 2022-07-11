@@ -11,7 +11,7 @@ project-date: May 2022
 category: News
 ---
 
-<img src="{{site.url}}/img/portfolio/Bristol.jpeg" alt="..." class="img-thumbnail">
+<img src="{{site.url}}/img/portfolio/Bristol.jpeg" alt="..." class="pull-left mr-2">
 REPHRAIN National Research Centre on Privacy, Harm Reduction and Adversarial Influence Online focuses on protecting citizens online while allowing them to securely participate in digital technologies.
 
 This is the second REPHRAIN funding call and aims to highlight research questions and challenges that are not currently being addressed by active REPHRAIN projects.
