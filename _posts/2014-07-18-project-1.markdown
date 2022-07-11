@@ -1,6 +1,6 @@
 ---
 title: Fresh partnerships herald exciting new era for research centre dedicated to online protection
-subtitle: News
+author: admin
 layout: post
 modal-id: 1
 date: 2022-05-30
