@@ -282,7 +282,6 @@ headerpost {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/portfolio/{{ post.img }}');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
