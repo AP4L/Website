@@ -6,7 +6,6 @@ modal-id: 1
 date: 2022-05-30
 img: Bristol.jpeg
 thumbnail: Bristol.jpeg
-alt: image-alt
 project-date: May 2022
 category: News
 ---
