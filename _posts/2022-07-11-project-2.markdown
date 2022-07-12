@@ -5,10 +5,10 @@ layout: post
 modal-id: 1
 date: 2022-07-11
 img: Image for krebson news story.jpeg
-thumbnail: experian image.png
+thumbnail:experian%20image.png
 alt: Image for krebson news story.jpeg
 project-date: July 2022
 category: News
 ---
 
-Twice in the past month KrebsOnSecurity has heard from readers who had their accounts at big-three credit bureau Experian hacked and updated with a new email address that wasn’t theirs. In both cases the readers used password managers to select strong, unique passwords for their Experian accounts. Research suggests identity thieves were able to hijack the accounts simply by signing up for new accounts at Experian using the victim’s personal information and a different email address. Read more here: https://krebsonsecurity.com/2022/07/experian-you-have-some-explaining-to-do/ 
+Twice in the past month KrebsOnSecurity has heard from readers who had their accounts at big-three credit bureau Experian hacked and updated with a new email address that wasn’t theirs. In both cases the readers used password managers to select strong, unique passwords for their Experian accounts. Research suggests identity thieves were able to hijack the accounts simply by signing up for new accounts at Experian using the victim’s personal information and a different email address. Read more here: <https://krebsonsecurity.com/2022/07/experian-you-have-some-explaining-to-do/>
