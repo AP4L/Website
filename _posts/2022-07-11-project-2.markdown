@@ -2,10 +2,10 @@
 title: Experian, you have some explaining to do
 author: admin
 layout: post
-modal-id: 1
+modal-id: 2
 date: 2022-07-11
 img: Image for krebson news story.jpeg
-thumbnail:experian%20image.png
+thumbnail:experian image.png
 project-date: July 2022
 category: News
 ---
