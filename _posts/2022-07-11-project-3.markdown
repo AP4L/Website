@@ -4,9 +4,9 @@ author: admin
 layout: post
 modal-id: 1
 date: 2022-07-11
-img: KIT.png
-thumbnail: Copenhagen.png
-alt: Copenhagen.png
+img: Copenhagen.png
+thumbnail: KIT.png
+alt: KIT.png
 project-date: July 2022
 category: News
 ---
