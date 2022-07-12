@@ -36,3 +36,18 @@ Professor of Cyber Security at the University of Bristol, Awais Rashid, is Direc
 Previous partnerships include eight projects dealing with issues such as clamping down on unlicensed COVID-19 activity and preventing online recruitment that aids human trafficking.
 
 REPHRAIN have conceived 37 projects since its launch. These outcomes will be collated and made available via the REPHRAIN Toolbox, addressing a comprehensive set of online harms.
+
+---
+title: Experian, you have some explaining to do
+author: admin
+layout: post
+modal-id: 1
+date: 2022-07-11
+img: Image for krebson news story.jpeg
+thumbnail: experian image.png
+alt: image-alt
+project-date: July 2022
+category: News
+---
+
+Twice in the past month KrebsOnSecurity has heard from readers who had their accounts at big-three credit bureau Experian hacked and updated with a new email address that wasn’t theirs. In both cases the readers used password managers to select strong, unique passwords for their Experian accounts. Research suggests identity thieves were able to hijack the accounts simply by signing up for new accounts at Experian using the victim’s personal information and a different email address. Read more here: Experian, You Have Some Explaining to Do – Krebs on Security
