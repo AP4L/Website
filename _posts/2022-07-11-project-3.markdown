@@ -6,7 +6,7 @@ modal-id: 1
 date: 2022-07-11
 img: Copenhagen.png
 thumbnail: KIT.png
-alt: KIT.png
+alt: Copenhagen.png
 project-date: July 2022
 category: News
 ---
