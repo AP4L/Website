@@ -6,7 +6,6 @@ modal-id: 1
 date: 2022-07-11
 img: Image for krebson news story.jpeg
 thumbnail: experian image.png
-alt: Image for krebson news story.jpeg
 project-date: July 2022
 category: News
 ---
