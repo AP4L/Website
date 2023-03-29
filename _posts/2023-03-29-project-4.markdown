@@ -1,0 +1,13 @@
+---
+title: Research Fellow in adaptive online safety and privacy at University of Surrey
+author: admin
+layout: post
+modal-id: 1
+date: 2022-05-30
+img: jobs.png
+thumbnail: jobs.png
+project-date: 17th March 2023
+category: News
+---
+Applications are invited for a 1-year Research Fellow in adaptive online safety and privacy, to work full-time on an EPSRC-funded project “AP4L: Adaptive PETs to Protect & emPower People during Life Transitions”.
+Apply Here:https://www.jobs.ac.uk/job/CYI531/research-fellow-in-adaptive-online-safety-and-privacy
