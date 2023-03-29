@@ -201,6 +201,16 @@ people:
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/shalini-jangra-67352b70/
+      
+- name: Dr. Suleman Lazarus
+  pic: Suleman.webp
+  position: Research Assistant in Criminology
+  website: https://www.lse.ac.uk/social-policy/research/Research-clusters/Mannheim/people/suleman-lazarus
+  social:
+    - title: twitter
+      url: https://twitter.com/DrSLazarus
+    - title: linkedin
+      url: linkedin.com/in/dr-suleman-lazarus-282654129
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
