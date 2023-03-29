@@ -193,6 +193,16 @@ people:
       url: https://twitter.com/Ignactro
     - title: linkedin
       url: https://www.linkedin.com/in/ignacio-de-castro-arribas-44a48117/
+      
+- name: Dr. Shalini
+  pic: Shalini.jpg
+  position: Research Fellow, Uni of Surrey
+  website: https://www.linkedin.com/in/shalini-jangra-67352b70/
+  social:
+    - title: twitter
+      url: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/shalini-jangra-67352b70/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
