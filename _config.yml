@@ -226,14 +226,7 @@ address:
   - line: Department of Computer Science
   - line: University of Surrey
   - line: Guildford, GU2 7XH
-
-# Publication settings
-publications:
-   -title: "My Publication Title"
-   -authors: ["John Doe", "Jane Doe"]
-   -date: 2023-04-28
-   -venue: "Journal of Awesome Research"
-   
+  
 # Build settings
 markdown: kramdown
 permalink: pretty
