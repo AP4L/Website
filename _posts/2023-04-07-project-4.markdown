@@ -11,5 +11,6 @@ project-date: July 2022
 category: News
 ---
 
-https://swgfl.org.uk/research/revenge-porn-helpline-2022-report/
-Read more here: https://swgfl.org.uk/research/revenge-porn-helpline-2022-report/
+[https://swgfl.org.uk/research/revenge-porn-helpline-2022-report/](https://swgfl.org.uk/research/revenge-porn-helpline-2022-report/)
+
+[Read more here: https://swgfl.org.uk/research/revenge-porn-helpline-2022-report/](Read more here: https://swgfl.org.uk/research/revenge-porn-helpline-2022-report/)
