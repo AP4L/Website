@@ -230,3 +230,10 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# Publication settings
+publications:
+   -title: "My Publication Title"
+   -authors: ["John Doe", "Jane Doe"]
+   -date: 2023-04-28
+   -venue: "Journal of Awesome Research"
