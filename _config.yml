@@ -231,4 +231,10 @@ address:
 markdown: kramdown
 permalink: pretty
 
+#publications
+collections:
+  publications:
+    output: true
+    permalink: /:collection/:name
+
 
