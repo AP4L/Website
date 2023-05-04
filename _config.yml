@@ -231,9 +231,6 @@ address:
 markdown: kramdown
 permalink: pretty
 
-#publications
-publications:
-- title: paper title
-- author: abc
+
 
 
