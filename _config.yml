@@ -231,6 +231,10 @@ address:
 markdown: kramdown
 permalink: pretty
 
-
+#publications list
+title: "Privacy Pitfalls of Online Service Terms and Conditions: a Hybrid Approach for Classification and Summarization"
+authors: ["Emilia Lukose", "Suparna De","Jon Johnson"]
+date: 2022-12-08
+venue: "Natural Legal Language Processing Workshop 2022"
 
 
