@@ -18,10 +18,10 @@
                         <p class="text-muted">{{ paper.author }}</p>
                         </a>
                         <ul class="list-inline social-buttons">
-                            {% for links in paper.links %}
+                            {% for link in paper.links %}
                             <li>
-                                <a href="{{ links.url }}">
-                                    <i class="{{links.icon}}" style="font-size:48px;color:red"></i>
+                                <a href="{{ link.url }}">
+                                    <i class="{{link.icon}}" style="font-size:48px;color:red"></i>
                                 </a>
                             </li>
                             {% endfor %}
