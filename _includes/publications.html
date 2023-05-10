@@ -11,16 +11,17 @@
                 {% for paper in site.publications %}
                 <div class="col-sm-3">
                     <div class="team-member">
-                        <a href="{{ paper.pdf.url }}">
+                        
+                        <a href="{{ paper.url }}">
    
                         <h4>{{ paper.title }}</h4>
                         <p class="text-muted">{{ paper.author }}</p>
                         </a>
                         <ul class="list-inline social-buttons">
-                            {% for pdf in paper.pdf %}
+                            {% for links in paper.links %}
                             <li>
-                                <a href="{{ pdf.url }}">
-                                    <i class="fa fa-file-pdf-o" style="font-size:48px;color:red"></i>
+                                <a href="{{ links.url }}">
+                                    <i class="{{links.icon}}" style="font-size:48px;color:red"></i>
                                 </a>
                             </li>
                             {% endfor %}
