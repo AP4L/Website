@@ -239,7 +239,7 @@ publications:
     paper_url: "https://aclanthology.org/2022.nllp-1.6.pdf"
     pdf:
       - url: "https://aclanthology.org/2022.nllp-1.6.pdf"
-        icon: fa fa-file-pdf
+        icon: fa fa-file-pdf-o
         
       
 
