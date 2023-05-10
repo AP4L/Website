@@ -235,7 +235,7 @@ publications:
     title: "Publications"
     text: "Latest publication"
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: team
+    section: publications
     papers:
       - title1: " Privacy Pitfalls of Online Service Terms and Conditions: a Hybrid Approach for Classification and Summarization"
         author: "Lukose, Emilia and De, Suparna and Johnson, Jon"
