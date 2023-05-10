@@ -244,11 +244,19 @@ publications:
    - title: " Utilizing Weak Supervision to Create S3D: A Sarcasm Annotated Dataset"
         author: "Jordan Painter, Helen Treharne, and Diptesh Kanojia"
         Venue: "NLP+CSS"
-        paper_url:https://aclanthology.org/2022.nlpcss-1.22.pdf
+        paper_url: "https://aclanthology.org/2022.nlpcss-1.22.pdf"
         pdf:
-          - url: https://aclanthology.org/2022.nlpcss-1.22.pdf
-            icon: fas fa-file-pdf     
-        
+          - url: "https://aclanthology.org/2022.nlpcss-1.22.pdf"
+            icon: fas fa-file-pdf    
+            
+     - title: " Jettisoning Junk Messaging in the Era of End-to-End Encryption:
+                  A Case Study of WhatsApp"
+        author: "Pushkal Agarwal, Nishanth Sastry, Gareth Tyson, Damiola Ibosiola,Aravindh Raman"
+        Venue:
+        paper_url: "https://arxiv.org/pdf/2106.05184.pdf"
+        pdf:
+          - url: "https://arxiv.org/pdf/2106.05184.pdf"
+            icon: fas fa-file-pdf
       
 
 
