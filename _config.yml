@@ -251,7 +251,7 @@ publications:
          
   - title: "Jettisoning Junk Messaging in the Era of End-to-End Encryption: A Case Study of WhatsApp"
     author: "Pushkal Agarwal, Nishanth Sastry, Gareth Tyson, Damiola Ibosiola,Aravindh Raman"
-    Venue:
+    Venue: "WWW"
     paper_url: "https://arxiv.org/pdf/2106.05184.pdf"
     pdf:
       - url: "https://arxiv.org/pdf/2106.05184.pdf"
