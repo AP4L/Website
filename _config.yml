@@ -241,13 +241,13 @@ publications:
       - url: "https://aclanthology.org/2022.nllp-1.6.pdf"
         icon: fa fa-file-pdf-o
         
-  - title: "Privacy Pitfalls of Online Service Terms and Conditions: a Hybrid Approach for Classification and Summarization"
-    author: "Lukose, Emilia and De, Suparna and Johnson, Jon"
-    Venue: "NLLP"
-    paper_url: "https://aclanthology.org/2022.nllp-1.6.pdf"
+  - title: "Utilizing Weak Supervision to Create S3D: A Sarcasm Annotated Dataset"
+    author: "Jordan Painter, Helen Treharne, and Diptesh Kanojia"
+    Venue: "NLP+CSS"
+    paper_url: "https://aclanthology.org/2022.nlpcss-1.22.pdf"
     pdf:
-      - url: "https://aclanthology.org/2022.nllp-1.6.pdf"
-        icon: fa fa-file-pdf-o      
+       - url: "https://aclanthology.org/2022.nlpcss-1.22.pdf"
+         icon: fas fa-file-pdf        
   
       
 
