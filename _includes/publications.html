@@ -18,6 +18,16 @@
                         <h4>{{ paper.title }}</h4>
                         <p class="text-muted">{{ paper.author }}</p>
                         </a>
+                        <ul class="list-inline social-buttons">
+                            {% for links in paper.pdf %}
+                            <li>
+                                <a href="{{ links.url }}">
+                                    <i class="fa fa-{{ links.icon }}"></i>
+                                </a>
+                            </li>
+                            {% endfor %}
+
+                        </ul>
                         
                     </div>
                 </div>
