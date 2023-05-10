@@ -1,19 +1,38 @@
-
 <!-- Publications Grid Section -->
-    <section id="publications" class="bg-light-gray">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Publications</h2>
-                    
-                   
-                    <h3 class="section-subheading text-muted">ddf</h3>
-                </div>
-               
-            </div>
-            </div> 
-             <div class="row">
-            
-            
-        </div>
-    </section>
+{% if site.locale and site.locale != "" and site.locale != nil %}
+<section class="page-section" id="{{ site.data.sitetext[site.locale].publications.section | default: "publications" }}">
+<div class="container">
+  <div class="row">
+	<div class="col-lg-12 text-center">
+	  <h2 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].publications.title }}</h2>
+	  <h3 class="section-subheading text-muted">{{ site.data.sitetext[site.locale].publications.text }}</h3>
+	</div>
+  </div>
+  <div class="row d-flex justify-content-left">
+  {% for paper in site.data.sitetext[site.locale].publications.papers %}
+	<div class="col-sm-4">
+	  <div class="team-member">
+		<p>{{ paper.title1 }}</p>
+		Author:<p class="text-muted">{{ paper.author }}</p>
+		<!-- <p class="text-muted">{{ person.role }}</p> -->
+		<ul class="list-inline social-buttons">
+		{% for network in paper.pdf %}
+		  <li class="list-inline-item">
+			<a href="{{ network.url }}">
+			  <i class="{{ network.icon }}"></i>
+			</a>
+		  </li>
+		{% endfor %}
+		</ul>
+	  </div>
+	</div>
+  {% endfor %}
+  </div>
+		</div>
+	  </div>
+	</div>
+</section>
+{% endif %}
+<!-- End Team -->
+
+
