@@ -279,6 +279,18 @@ publications:
     pdf:
       - url: "https://ojs.aaai.org/index.php/ICWSM/article/view/19310/19082"
         icon: fa fa-file-pdf-o
+  
+  - title: "Constrained Machine Learning for LoRa Gateway Location Optimisation"
+    author: "Abdullahi Abubakar Kutiriko, Tavis Shoree,Nishanth Sastry"
+    Venue: " "
+    paper_url: "https://dl.acm.org/doi/pdf/10.1145/3570748.3570751"
+    pdf:
+      - url: "https://dl.acm.org/doi/pdf/10.1145/3570748.3570751"
+        icon: fa fa-file-pdf-o
+        
+   
+   
+  
  
             
             
