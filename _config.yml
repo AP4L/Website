@@ -263,7 +263,15 @@ publications:
     paper_url: "https://arxiv.org/pdf/2202.08175.pdf"
     pdf:
       - url: "https://arxiv.org/pdf/2202.08175.pdf"
-        icon: fa fa-file-pdf-o   
+        icon: fa fa-file-pdf-o 
+        
+   - title: "Design and Evaluation of IPFS: A Storage Layer for the Decentralized Web"
+     author: "Dennis Trautweine, Aravindh Raman, Gareth Tyson,Ignacio Castro,Will Scott,Moritz Schubotz,Bela Gipp,Yiannis Psaras"
+     Venue: " "
+     paper_url: "https://arxiv.org/pdf/2208.05877.pdf"  
+     pdf:
+       - url: "https://arxiv.org/pdf/2208.05877.pdf"
+         icon: fa fa-file-pdf-o     
             
   
 
