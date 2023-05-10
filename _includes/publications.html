@@ -11,7 +11,7 @@
                 {% for paper in site.publications %}
                 <div class="col-sm-3">
                     <div class="team-member">
-                        <a href="{{ paper.title }}">
+                        <a href="{{ paper.pdf.url }}">
    
                         <h4>{{ paper.title }}</h4>
                         <p class="text-muted">{{ paper.author }}</p>
@@ -20,7 +20,7 @@
                             {% for pdf in paper.pdf %}
                             <li>
                                 <a href="{{ pdf.url }}">
-                                    <i class="fa fa-{{ pdf.icon }}"></i>
+                                    <i class="fas fa-file-pdf"></i>
                                 </a>
                             </li>
                             {% endfor %}
