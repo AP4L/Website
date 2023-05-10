@@ -16,7 +16,7 @@
                         <p class="text-muted">{{ paper.author }}</p>
                         </a>
                         <ul class="list-inline social-buttons">
-                            {% for network in paper.pdf %}
+                            {% for network in papers.pdf %}
                             <li>
                                 <a href="{{ network.pdf }}">
                                     <i class="fa fa-{{ network.title1 }}"></i>
