@@ -236,9 +236,8 @@ publications:
   - title: "Privacy Pitfalls of Online Service Terms and Conditions: a Hybrid Approach for Classification and Summarization"
     author: "Lukose, Emilia and De, Suparna and Johnson, Jon"
     Venue: "NLLP"
-    pdf:
-      - url: "https://aclanthology.org/2022.nllp-1.6.pdf"
-        icon: "fas fa-file-pdf"
+    url: "https://aclanthology.org/2022.nllp-1.6.pdf"
+    icon: "fa fa-file-pdf"
       
 
 
