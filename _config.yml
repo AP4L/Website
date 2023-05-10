@@ -247,8 +247,23 @@ publications:
     paper_url: "https://aclanthology.org/2022.nlpcss-1.22.pdf"
     pdf:
        - url: "https://aclanthology.org/2022.nlpcss-1.22.pdf"
-         icon: fas fa-file-pdf        
-  
+         icon: fa fa-file-pdf-o
+         
+  - title: "Jettisoning Junk Messaging in the Era of End-to-End Encryption: A Case Study of WhatsApp"
+    author: "Pushkal Agarwal, Nishanth Sastry, Gareth Tyson, Damiola Ibosiola,Aravindh Raman"
+    Venue:
+    paper_url: "https://arxiv.org/pdf/2106.05184.pdf"
+    pdf:
+      - url: "https://arxiv.org/pdf/2106.05184.pdf"
+        icon: fa fa-file-pdf-o
+            
+  - title: " GraphNLI: A Graph-based Natural Language Inference Model for Polarity Prediction in Online Debates"
+    author: "Vibhor Agarwal, Nishanth Sastry, Anthony P. Young, Sagar Joglekar"
+    Venue:
+    paper_url: "https://arxiv.org/pdf/2202.08175.pdf"
+    pdf:
+      - url: "https://arxiv.org/pdf/2202.08175.pdf"
+        icon: fa fa-file-pdf-o
       
 
 
