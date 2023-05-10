@@ -256,7 +256,14 @@ publications:
     pdf:
       - url: "https://arxiv.org/pdf/2106.05184.pdf"
         icon: fa fa-file-pdf-o
-            
+        
+  - title: "GraphNLI: A Graph-based Natural Language Inference Model for Polarity Prediction in Online Debates"
+    author: "Vibhor Agarwal, Nishanth Sastry, Anthony P. Young, Sagar Joglekar"
+    Venue:  "WWW"
+    paper_url: "https://arxiv.org/pdf/2202.08175.pdf"
+        pdf:
+          - url: "https://arxiv.org/pdf/2202.08175.pdf"
+            icon: fa fa-file-pdf-o     
   
       
 
