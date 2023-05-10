@@ -231,6 +231,7 @@ address:
 markdown: kramdown
 permalink: pretty
 
+# Publications
 publications:
     title: "Publications"
     text: "Latest publications"
