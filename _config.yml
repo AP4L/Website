@@ -242,7 +242,7 @@ publications:
         icon: fa fa-file-pdf-o
         
   - title: "Utilizing Weak Supervision to Create S3D: A Sarcasm Annotated Dataset"
-    author: "Jordan Painter, Helen Treharne, and Diptesh Kanojia"
+    author: "Jordan Painter, Helen Treharne, Diptesh Kanojia"
     Venue: "NLP+CSS"
     paper_url: "https://aclanthology.org/2022.nlpcss-1.22.pdf"
     pdf:
