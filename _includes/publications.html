@@ -22,7 +22,7 @@
                             {% for links in paper.pdf %}
                             <li>
                                 <a href="{{ links.url }}">
-                                    <i class="fa fa-{{ links.icon }}"></i>
+                                    <i class="{{ links.icon }}"></i>
                                 </a>
                             </li>
                             {% endfor %}
