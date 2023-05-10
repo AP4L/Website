@@ -264,13 +264,6 @@ publications:
     pdf:
       - url: "https://arxiv.org/pdf/2202.08175.pdf"
         icon: fa fa-file-pdf-o
-  - title: "Design and Evaluation of IPFS: A Storage Layer for the Decentralized Web"
-    author: "Dennis Trautweine, Aravindh Raman, Gareth Tyson,Ignacio Castro,Will Scott,Moritz Schubotz,Bela Gipp,Yiannis P saras"
-    Venue:  " "
-    paper_url: "https://arxiv.org/pdf/2208.05877.pdf"  
-    pdf:
-      - url: "https://arxiv.org/pdf/2208.05877.pdf"
-        icon: fa fa-file-pdf-o
         
   - title: "The Web We Weave: Untangling the Social Graph of the IETF"
     author: "Ignacio Castro, Prashant Khare,Gareth Tyson,Matthew Purver,Colin Perkins"
@@ -287,13 +280,20 @@ publications:
     pdf:
       - url: "https://dl.acm.org/doi/pdf/10.1145/3570748.3570751"
         icon: fa fa-file-pdf-o
-        
+      
+  - title: "Design and Evaluation of IPFS: A Storage Layer for the Decentralized Web"
+    author: "Dennis Trautweine, Aravindh Raman, Gareth Tyson,Ignacio Castro,Will Scott,Moritz Schubotz,Bela Gipp,Yiannis P saras"
+    Venue:  " "
+    paper_url: "https://arxiv.org/pdf/2208.05877.pdf"  
+    pdf:
+      - url: "https://arxiv.org/pdf/2208.05877.pdf"
+        icon: fa fa-file-pdf-o    
+   
    
    
   
- 
-            
             
   
-
+  
+   
 
