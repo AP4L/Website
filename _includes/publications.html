@@ -18,8 +18,8 @@
                         <ul class="list-inline social-buttons">
                             {% for network in papers.pdf %}
                             <li>
-                                <a href="{{ network.pdf }}">
-                                    <i class="fa fa-{{ network.title1 }}"></i>
+                                <a href="{{ network.url }}">
+                                    <i class="fa fa-{{ network.icon }}"></i>
                                 </a>
                             </li>
                             {% endfor %}
