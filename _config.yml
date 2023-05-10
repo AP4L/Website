@@ -270,7 +270,16 @@ publications:
     paper_url: "https://arxiv.org/pdf/2208.05877.pdf"  
     pdf:
       - url: "https://arxiv.org/pdf/2208.05877.pdf"
-        icon: fa fa-file-pdf-o         
+        icon: fa fa-file-pdf-o
+        
+  - title: "The Web We Weave: Untangling the Social Graph of the IETF"
+    author: "Ignacio Castro, Prashant Khare,Gareth Tyson,Matthew Purver,Colin Perkins"
+    Venue: " "
+    paper_url: "https://ojs.aaai.org/index.php/ICWSM/article/view/19310/19082"
+    pdf:
+      - url: "https://ojs.aaai.org/index.php/ICWSM/article/view/19310/19082"
+        icon: fa fa-file-pdf-o
+ 
             
             
   
