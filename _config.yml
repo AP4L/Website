@@ -264,7 +264,13 @@ publications:
         pdf:
           - url: "https://arxiv.org/pdf/2202.08175.pdf"
             icon: fa fa-file-pdf-o     
-  
+  - title: "Way back then”: A Data-driven View of 25+ years of Web Evolution"
+    author: "Vibhor Agarwal, Nishanth Sastry"
+    Venue: " "
+    paper_url: "https://arxiv.org/pdf/2202.08239.pdf"   
+        pdf:
+          - url: "https://arxiv.org/pdf/2202.08239.pdf"
+            icon: fa fa-file-pdf-o
       
 
 
