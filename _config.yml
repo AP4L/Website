@@ -232,12 +232,12 @@ markdown: kramdown
 permalink: pretty
 
 # Publications
-publications:
-    title: "Publications"
-    text: "Latest publications"
-    subtext:
-    section: publications
-    papers:
+# publications:
+#     title: "Publications"
+#     text: "Latest publications"
+#     subtext:
+#     section: publications
+    publications:
       - title1: " Privacy Pitfalls of Online Service Terms and Conditions: a Hybrid Approach for Classification and Summarization"
         author: "Lukose, Emilia and De, Suparna and Johnson, Jon"
         Venue: "NLLP"
