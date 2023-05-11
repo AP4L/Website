@@ -15,7 +15,9 @@ body {
     padding: 30px;
     text-align: center;
 }
-
+.height-300: {
+    height: 300px;
+}
 .header {
     padding: 10px 16px;
     background: #555;
