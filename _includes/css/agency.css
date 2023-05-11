@@ -10,7 +10,7 @@ body {
     color: #{{ site.data.template.color.secondary-dark }};
     background-color: red;
 }
-.height-300: {
+.height-300 {
     height: 300px;
 }
 
