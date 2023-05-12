@@ -288,7 +288,7 @@ publications:
     pdf:
       - url: "https://arxiv.org/pdf/2208.05877.pdf"
         icon: fa fa-file-pdf-o    
-  
+    
   - title: "What Cookie Consent Notices Do Users Prefer: A Study In The Wild"
     author: "Ashutosh Kumar Singh,Nishanth Sastry,Xuehui Hu,Nisarg Upadhyaya,Arka Seth,Mainack Mondal"
     Venue:  " "
@@ -296,9 +296,16 @@ publications:
     pdf:
       - url: "https://dl.acm.org/doi/pdf/10.1145/3549015.3555675"
         icon: fa fa-file-pdf-o  
-   
-   
-  
+    
+  - title: "What Cookie Consent Notices Do Users Prefer: A Study In The Wild"
+    author: "David Dang,Christoforos Efstathiou,Dijue Sun,Nisarg Upadhyaya,Haoran Yue,Viji M. Draviam"
+    Venue:  " "
+    paper_url: "https://rupress.org/jcb/article-pdf/222/5/e202111094/1448667/jcb_202111094.pdf"  
+    pdf:
+      - url: "https://rupress.org/jcb/article-pdf/222/5/e202111094/1448667/jcb_202111094.pdf"
+        icon: fa fa-file-pdf-o  
+    
+    
             
   
   
