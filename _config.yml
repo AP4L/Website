@@ -329,4 +329,10 @@ publications:
       - url: "https://dl.acm.org/doi/pdf/10.1145/3485447.3512283"
         icon: fa fa-file-pdf-o
    
-
+ - title: "Toxicity in the Decentralized Web and the Potential for Model Sharing"
+    author: "Haris Bin Zia,Aravindh Raman,ignacio Castro,Nishanth Sastry,Ishaku Hassan Anaobi,emiliano De Cristofaro,Gareth Tyson"
+    Venue:  " "
+    paper_url: "https://dl.acm.org/doi/pdf/10.1145/3530901"  
+    pdf:
+      - url: "https://dl.acm.org/doi/pdf/10.1145/3530901"
+        icon: fa fa-file-pdf-o
