@@ -313,14 +313,14 @@ publications:
       - url: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9903147"
         icon: fa fa-file-pdf-o   
     
-   - title: "Usage Mining of the London Santander Bike-Sharing System"
+  - title: "Usage Mining of the London Santander Bike-Sharing System"
     author: "Suparna De,Usamah Jassat,Wei Wang,Klaus Moessner"
     Venue:  " "
     paper_url: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9963751"  
     pdf:
       - url: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9963751"
         icon: fa fa-file-pdf-o           
-  
+     
   
    
 
