@@ -288,7 +288,14 @@ publications:
     pdf:
       - url: "https://arxiv.org/pdf/2208.05877.pdf"
         icon: fa fa-file-pdf-o    
-   
+  
+  - title: "What Cookie Consent Notices Do Users Prefer: A Study In The Wild"
+    author: "Ashutosh Kumar Singh,Nishanth Sastry,Xuehui Hu,Nisarg Upadhyaya,Arka Seth,Mainack Mondal"
+    Venue:  " "
+    paper_url: "https://dl.acm.org/doi/pdf/10.1145/3549015.3555675"  
+    pdf:
+      - url: "https://dl.acm.org/doi/pdf/10.1145/3549015.3555675"
+        icon: fa fa-file-pdf-o  
    
    
   
