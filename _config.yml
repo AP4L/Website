@@ -303,8 +303,15 @@ publications:
     paper_url: "https://rupress.org/jcb/article-pdf/222/5/e202111094/1448667/jcb_202111094.pdf"  
     pdf:
       - url: "https://rupress.org/jcb/article-pdf/222/5/e202111094/1448667/jcb_202111094.pdf"
-        icon: fa fa-file-pdf-o  
-    
+        icon: fa fa-file-pdf-o
+        
+  - title: "Mining Composite Spatio-Temporal Lifestyle Patterns from Geotagged Social Data"
+    author: "Suparna De,Usamah Jassat,Alex Grace,Wei Wang,Klaus Moessner"
+    Venue:  " "
+    paper_url: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9903147"  
+    pdf:
+      - url: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9903147"
+        icon: fa fa-file-pdf-o   
     
             
   
