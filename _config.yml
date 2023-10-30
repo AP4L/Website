@@ -337,4 +337,12 @@ publications:
       - url: "https://dl.acm.org/doi/pdf/10.1145/3530901"
         icon: fa fa-file-pdf-o
      
-    
+  - title: "Lessons from the age of user-generated content for the age of AI-generated content"
+    author: "Prof. Nishanth Sastry"
+    Venue: "https://wsl.iiitb.ac.in/cikm-2023-ekgllm-invited-talks/"
+    paper_url: ""
+    pdf:
+      - url: "https://wsl.iiitb.ac.in/cikm-2023-ekgllm-invited-talks/"
+        icon: fa fa-file-pdf-o
+
+        
