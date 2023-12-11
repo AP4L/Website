@@ -340,7 +340,7 @@ publications:
   - title: "Lessons from the age of user-generated content for the age of AI-generated content"
     author: "Nishanth Sastry"
     Venue: "https://wsl.iiitb.ac.in/cikm-2023-ekgllm-invited-talks/"
-    paper_url: ""
+    paper_url: "https://wsl.iiitb.ac.in/cikm-2023-ekgllm-invited-talks/"
     pdf:
       - url: "https://wsl.iiitb.ac.in/cikm-2023-ekgllm-invited-talks/"
         icon: fa fa-file-pdf-o
@@ -348,7 +348,7 @@ publications:
   - title: "Monitoring & Mitigating Online Harms: Is Redecentralisation the Answer to Partisanship, Hate Speech, Tracking etc.?"
     author: "Nishanth Sastry"
     Venue:  "https://nss-socialsec2023.cyber.kent.ac.uk/keynotes.php"
-    paper_url: ""  
+    paper_url: "https://nss-socialsec2023.cyber.kent.ac.uk/keynotes.php"  
     pdf:
       - url: "https://nss-socialsec2023.cyber.kent.ac.uk/keynotes.php"
         icon: fa fa-file-pdf-o
@@ -356,7 +356,7 @@ publications:
   - title: "Graphs as a powerful abstraction for Protecting & Empowering People Online"
     author: "Nishanth Sastry"
     Venue:  "https://60th-kis2023.kait.jp/"
-    paper_url: ""  
+    paper_url: "https://60th-kis2023.kait.jp/"  
     pdf:
       - url: "https://60th-kis2023.kait.jp/"
         icon: fa fa-file-pdf-o
@@ -364,8 +364,15 @@ publications:
   - title: "Making Imaging Data Meaningful: Lessons from Social Media"
     author: "Nishanth Sastry"
     Venue:  "https://60th-kis2023.kait.jp/"
-    paper_url: ""  
+    paper_url: "https://60th-kis2023.kait.jp/"  
     pdf:
       - url: "https://60th-kis2023.kait.jp/"
         icon: fa fa-file-pdf-o
   
+  - title: "What do we know about online romance fraud studies? A systematic review of the empirical literature (2000 to 2021)"
+    author: "Suleman Lazarus, Jack M. Whittaker, Michael R. McGuire, Lucinda Platt"
+    Venue:  "https://www.sciencedirect.com/science/article/pii/S2949791423000131"
+    paper_url: "https://www.sciencedirect.com/science/article/pii/S2949791423000131"  
+    pdf:
+      - url: "https://www.sciencedirect.com/science/article/pii/S2949791423000131"
+        icon: fa fa-file-pdf-o
