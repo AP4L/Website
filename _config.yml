@@ -233,6 +233,14 @@ permalink: pretty
 
 # Publications
 publications:
+  - title: "AP4L Monthly Blog"
+    author: "AP4L Project"
+    Venue: ""
+    paper_url: "https://ap4lproject.blogspot.com/"
+    pdf:
+      - url: "https://ap4lproject.blogspot.com/"
+        icon: fa fa-file-pdf-o
+        
   - title: "Privacy Pitfalls of Online Service Terms and Conditions: a Hybrid Approach for Classification and Summarization"
     author: "Lukose, Emilia and De, Suparna and Johnson, Jon"
     Venue: "NLLP"
@@ -375,4 +383,44 @@ publications:
     paper_url: "https://www.sciencedirect.com/science/article/pii/S2949791423000131"  
     pdf:
       - url: "https://www.sciencedirect.com/science/article/pii/S2949791423000131"
+        icon: fa fa-file-pdf-o
+
+  - title: "A Narrative Review of Potential Risks and Harms of Revealing Personal Data Online (Abstract and Presentation)"
+    author: "Prof. Wendy Moncur"
+    Venue:  "https://crestresearch.ac.uk/bass23/"
+    paper_url: "https://crestresearch.ac.uk/bass23/"  
+    pdf:
+      - url: "https://crestresearch.ac.uk/bass23/"
+        icon: fa fa-file-pdf-o
+
+  - title: "Sensitive methods and empathy for understanding privacy needs of those living through serious life transitions (Abstract and Poster)"
+    author: "Dr. Diane Morrow"
+    Venue:  "https://crestresearch.ac.uk/bass23/"
+    paper_url: "https://crestresearch.ac.uk/bass23/"  
+    pdf:
+      - url: "https://crestresearch.ac.uk/bass23/"
+        icon: fa fa-file-pdf-o
+
+  - title: "Using Social Media Posts as Prompts to ChatGPT to Produce Tailored Privacy Advice for People Going Through Life Transitions. (Abstract and Poster)"
+    author: "Dr. Ryan Gibson"
+    Venue:  "https://crestresearch.ac.uk/bass23/"
+    paper_url: "https://crestresearch.ac.uk/bass23/"  
+    pdf:
+      - url: "https://crestresearch.ac.uk/bass23/"
+        icon: fa fa-file-pdf-o
+
+  - title: "Navigating Change and Cyber Security Risks"
+    author: "Prof. Wendy Moncur"
+    Venue:  "https://www.fca.org.uk/"
+    paper_url: "https://www.fca.org.uk/"  
+    pdf:
+      - url: "https://www.fca.org.uk/"
+        icon: fa fa-file-pdf-o
+
+  - title: "Understanding online harms and safety of vulnerable groups going through serious life transitions"
+    author: "Dr. Ryan Gibson"
+    Venue:  "https://inclusiveprivacy.org/workshops/wips2023.html"
+    paper_url: "https://inclusiveprivacy.org/workshops/wips2023.html"  
+    pdf:
+      - url: "https://inclusiveprivacy.org/workshops/wips2023.html"
         icon: fa fa-file-pdf-o
